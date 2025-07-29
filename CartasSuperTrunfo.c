@@ -40,10 +40,10 @@ int main() {
     scanf("%d", &populacao);
 
     printf("Digite a área em km²: \n");
-    scanf("%2f", &area);
+    scanf("%f", &area);
 
     printf("Qual o PIB em bilhões R$: \n");
-    scanf("%2f", &PIB);
+    scanf("%f", &PIB);
 
     printf("Quantidade de pontos turísco: \n");
     scanf("%d", &turistico);
@@ -79,10 +79,10 @@ int main() {
     scanf("%d", &populacao1);
 
     printf("Digite a área: \n");
-    scanf("%2f", &area1);
+    scanf("%f", &area1);
 
     printf("Qual o PIB em bilhões R$: \n");
-    scanf("%2f", &PIB1);
+    scanf("%f", &PIB1);
 
     printf("Quantidade de pontos turísco: \n");
     scanf("%d", &turistico1);
